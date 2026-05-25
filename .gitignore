@@ -38,7 +38,6 @@ yarn-error.log*
 
 # embedded git repo (separate project)
 /gsap-skills
-
 # typescript
 *.tsbuildinfo
 next-env.d.ts
